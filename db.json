@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Romzi",
+      "alamat": "Rancaekek",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 2,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 3,
+      "nama": "Shafira",
+      "alamat": "Kuningan",
+      "umur": 20,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 4,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 5,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 6,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 7,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 8,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 9,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 10,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 11,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 12,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 13,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    },
+    {
+      "id": 14,
+      "nama": "Friska",
+      "alamat": "Kuningan",
+      "umur": 23,
+      "nohp": "0895602144608"
+    }
+  ]
+}
